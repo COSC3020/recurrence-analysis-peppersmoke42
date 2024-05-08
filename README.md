@@ -31,3 +31,6 @@ function mystery(n) {
 Add your answer to this markdown file. [This
 page](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/writing-mathematical-expressions)
 might help with the notation for mathematical expressions.
+
+$T(n)$ = runtime of mystery
+$T(n) = 3T(n) + O(n^3)
